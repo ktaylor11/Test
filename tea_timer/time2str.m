@@ -28,9 +28,13 @@ function timeStr = time2str(val,timeSep,useFracSec,nFracSecDigits,useDay,ignoreW
 % $Revision: 1.0 $  $Date: 2010/06/01 12:38:49 $
 
 % COPYRIGHT NOTICE
-% 	© 2010 The Johns Hopkins University / Applied Physics Laboratory
+% 	Â© 2010 The Johns Hopkins University / Applied Physics Laboratory
 % 	All Rights Reserved.
 %********1*********2*********3*********4*********5*********6*********7*********8
+
+%% Branch Adjustment
+% Not Actually Changing the Code, only added some text to view discrepancies between the Master and New Test Branch
+
 
 % Check inputs
 if nargin<1
